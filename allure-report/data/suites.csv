@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Jul 07 15:01:47 PKT 2022","Thu Jul 07 15:01:47 PKT 2022","220","","get api user test","","","","get users",""
+"passed","Thu Jul 07 15:01:50 PKT 2022","Thu Jul 07 15:01:50 PKT 2022","224","","post api user test","","","","post users",""
